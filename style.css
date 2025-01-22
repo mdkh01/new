@@ -15,7 +15,7 @@ body {
     margin: 10px;
     padding: 10px;
     background-image: url('abr.jpg'); /* استبدل بـ رابط الصورة */
-    background-size: cover; /* تجعل الصورة تغطي الشاشة بالكامل */
+    background-size: 60%; /* تجعل الصورة تغطي الشاشة بالكامل */
     background-position: center; /* توسيط الصورة */
     background-attachment:fixed; /* تبقى الصورة ثابتة عند التمرير */
     color: rgb(68, 22, 234); /* تغيير لون النص ليظهر بوضوح */
