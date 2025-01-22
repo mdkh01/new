@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+}
+.total{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+body {
+    margin: 10px;
+    padding: 10px;
+    background-image: url('abr.jpg'); /* استبدل بـ رابط الصورة */
+    background-size: cover; /* تجعل الصورة تغطي الشاشة بالكامل */
+    background-position: center; /* توسيط الصورة */
+    background-attachment:fixed; /* تبقى الصورة ثابتة عند التمرير */
+    color: rgb(68, 22, 234); /* تغيير لون النص ليظهر بوضوح */
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    margin-bottom: 0;
+    font-style: italic;
+    color: #007bff;
+    margin: 29px;
+    list-style-type: none;
+    background-color: aquamarine;
+  }
+ 
